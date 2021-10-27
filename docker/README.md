@@ -1,4 +1,10 @@
 # Docker y Docker Compose
+
+## Archivos del Ejercicio
+- Jupyter Notebook con prueba de conexión entre el contenedor de Jupyter y MySQL Server: [docker.ipynb](docker.ipynb)
+- Definición de Docker Compose: [docker-compose.yml](docker-compose.yml)
+- Jupyter Notebook con prueba de conexión entre contenedores creados con Docker Compose: [docker-compose.ipynb](docker-compose.ipynb)
+
 ## Ejecutando contenedores con Docker
 
 Creamos la red my_test_network con el comando **docker network create**
